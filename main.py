@@ -2,6 +2,10 @@
 
 Writes a single funny line (at most 200 characters) to /output/entry.txt.
 The line is the whole entry: a setup with a turn the reader does not see coming.
+
+Judge criteria, in order: the surprise turn comes first, then economy
+(every word earning its place), then freshness of the premise, then
+clean wording. The entry must stay within the 200-character cap.
 """
 
 import os
